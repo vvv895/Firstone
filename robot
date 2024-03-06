@@ -1,5 +1,1 @@
-Library Selenium Library
-pora pulka
-TO Create COntroversy
-sd;f
-slavinski
+Library Selenium

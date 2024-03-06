@@ -8,6 +8,9 @@ CONSUMER_SECRET = "dkejkdjekdjkejdkjekdjekjdkjed"
 auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
 auth.set_access_token("ACCESS_TOKEN", "ACCESS_TOKEN_SECRET")
 
+ACCESS_TOKEN="123;j23k"
+ACCESS_TOKEN_SECRET="asdlkfje"
+
 # Create API object
 api = tweepy.API(auth)
 
